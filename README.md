@@ -1,5 +1,5 @@
 ### Introduction
-This repository explores predicting the S&P500 using SciKit Learn.
+This repository explores predicting the companies stock prices within the S&P500 using SciKit Learn.
 
 ### Presentation Slides...
 
