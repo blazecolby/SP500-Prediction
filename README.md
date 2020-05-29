@@ -1,5 +1,7 @@
+### Introduction
+This repository explores predicting the S&P500 using SciKit Learn.
 
-# Presentation Slides...
+### Presentation Slides...
 
 ![01.jpg](slides/01.jpg)
 ![01.jpg](slides/02.jpg)
